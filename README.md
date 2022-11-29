@@ -1,4 +1,8 @@
-# pros-cons-pwa
+# Pros & Cons Progressive Web Application
+
+PWA Application to consider pros & cons of a topic.
+
+Built with Vue 
 
 ## Project setup
 ```
